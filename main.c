@@ -4,4 +4,5 @@ int main() {
 	int c = 2;
 	int d = 3;
 	int e = 4;
+	int f = 5;
 }
